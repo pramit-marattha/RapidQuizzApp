@@ -1,4 +1,7 @@
 ![Quiz](RapidQuiz.gif)
+![Quiz](py.gif)
+![Quiz](java.gif)
+![Quiz](csharp.gif)
 ![](1.png)
 ![](2.png)
 ![](3.png)
